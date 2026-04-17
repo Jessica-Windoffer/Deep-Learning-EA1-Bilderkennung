@@ -54,7 +54,7 @@ h5 {
 /* Setting fix margin at the top and the bottom of text enough space
 to the elements before and after is granted */
 p {
-  margin: 0.8% 0 0.8% 0;
+  margin: 0.5% 0 0.8% 0;
 }
 
 /* Setting the styles for the loader placed under the two headings
